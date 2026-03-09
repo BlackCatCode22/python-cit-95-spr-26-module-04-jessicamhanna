@@ -32,3 +32,5 @@ for line in file_handle:
         continue
 
     print(words[2])
+
+    # whoa the drama of pushing commits
